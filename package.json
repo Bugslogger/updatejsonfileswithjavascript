@@ -1,14 +1,14 @@
 {
   "name": "editjson",
   "version": "1.0.0",
-  "description": "",
+  "description": "update or modify json file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["editjsonfile","updatejson", "modifyjson"],
+  "author": "MrDark",
   "license": "ISC",
   "dependencies": {
     "edit-json-file": "^1.7.0"
