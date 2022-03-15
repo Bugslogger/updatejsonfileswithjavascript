@@ -2,6 +2,8 @@
 
 when this code is executed it will check for json files in files folder and update it. you can specify what feilds should be updated or to update whole file
 
+# After cloning repo first do npm install to install require dependencies
+
  Author: MrDark
  This code updates content inside file
  you can modify code according to you what you have to change \
