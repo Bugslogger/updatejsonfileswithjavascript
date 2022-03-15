@@ -20,5 +20,5 @@ when this code is executed it will check for json files in files folder and upda
  if you face any issue contact me on discord.
  
  username: Mr.Dark#3119
- Discord Server: Discord Server (https://discord.gg/SEdTFcukbF) 
- youtube: Bugslogger[https://www.youtube.com/channel/UCEyxVbzsG0oj2f3qoUCQ00g]
+ Discord Server: https://discord.gg/SEdTFcukbF
+ youtube: Bugslogger [https://www.youtube.com/channel/UCEyxVbzsG0oj2f3qoUCQ00g]
