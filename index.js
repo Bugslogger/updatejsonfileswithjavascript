@@ -4,7 +4,7 @@
  * you can modify code according to you what you have to change \
  * in the file. and type of files can be updated using this code
  * 
- * you must give credit to it's owner (MrDark [Sarfaraj Shah])
+ * you must give credit to it's owner (MrDark)
  * 
  * using this code you can update particular property of json file
  * or you can replace whole json file's data.
